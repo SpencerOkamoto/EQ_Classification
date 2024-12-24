@@ -1,1 +1,1 @@
-# EQ_Classification
+# Earthquake Classifier and Identification
